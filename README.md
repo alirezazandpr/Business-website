@@ -27,5 +27,5 @@ https://github.com/alirezazandpr/Business-website
 For collaborations or feedback:
 
 - 📧 alirezaprogrammer2005@gmail.com  
-- 💬 [Telegram] (https://t.me/alireza_zandd)
+- 💬 [Telegram](https://t.me/alireza_zandd)
 
