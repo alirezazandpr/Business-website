@@ -3,8 +3,7 @@
 A simple and responsive business website template built using HTML, CSS, and JavaScript. This template can be used for small businesses, shops, or personal projects to showcase products or services online.
 
 ## 🔗 Live Website
-
-👉 Visit the Website (https://alirezazandpr.github.io/Business-website/)
+👉[Visit Website](https://alirezazandpr.github.io/Business-website/)
 
 ## 📂 Repository
 
@@ -18,8 +17,15 @@ https://github.com/alirezazandpr/Business-website
 - Mobile-friendly
 - Easy to customize and extend
 
-## 🛠 Installation
+## 🛠️ Built With
+- HTML5
+- CSS3 (Flexbox)
+- JavaScript (Vanilla)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/alirezazandpr/Business-website.git
+## 📬 Contact
+
+For collaborations or feedback:
+
+- 📧 alirezaprogrammer2005@gmail.com  
+- 💬 Telegram (https://t.me/alireza_zandd)
+
